@@ -1,0 +1,11 @@
+<ivy-module version="2.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
+	<info organisation="mlt" module="mlt-language" status="integration"
+		revision="0.1"></info>
+	<dependencies>
+		<dependency org="commons-lang" name="commons-lang" rev="2.5" />
+		<dependency org="mlt" name="mlt-laf" rev="0.1" />
+		<dependency org="mlt" name="mlt-lib" rev="0.1" />
+	</dependencies>
+</ivy-module>
